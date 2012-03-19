@@ -1,0 +1,5 @@
+****Fish****
+
+randomnumber x, y: 1 7
+Anim Name: amuse	 Length: 6.66667
+

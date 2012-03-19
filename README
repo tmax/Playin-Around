@@ -1,0 +1,7 @@
+An application of the A* algorithm using the OGRE3d framework.  Currently we have a few characters moving randomly on screen, avoiding collisions with stationary toilets (eww who would want to collide with that). There are also weapons scattered throughout the sparse, floating, platform-world.  You may hear a sound effect when a weapon is collected by a character.  
+
+To build: open PlayinAround.vcproj in Visual Studio and compile. 
+
+There is not much interaction, though you can control the camera by right-clicking and dragging the mouse.  Zoom in and out with the up/down, w/s keys and strafe left and right with the left/right, s/d keys.  
+
+You will need an OGRE3d environment properly configured to run the Visual Studio project.  
